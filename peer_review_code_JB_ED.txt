@@ -1,0 +1,19 @@
+Is the Github documentation - commits and README - thorough and descriptive?
+
+Could possibly use more commits. Need to add a README file.
+
+Is the code easy to read (good indentation, spacing, naming)?
+
+indendtation on js page line 16 needs to be indented and lines 7, 10, 12, 15 don't need the spacing. Other than that legible.
+
+Were branching and looping used effectively?
+
+Branching and looping looks good. Good use of var, and if/else statements.
+
+Is the web page(s) styled using Bootstrap and CSS?
+
+Minimal bootstrap use. Used CSS to style HTML elements.
+
+Is the site user-friendly?
+
+Yeah - responsive. Maybe light font on dark background will be helpful (a little hard to read)
